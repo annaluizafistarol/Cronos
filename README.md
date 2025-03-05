@@ -14,7 +14,7 @@ E foi assim que surgiu o **Cronos**, um site elaborado para ser utilizado com ê
 ## 🧠✨ O que aprendi
 Ao longo desses dias me deparei com diversos desafios que me fizeram ter orgulho de ter chego neste resultado em tão pouco tempo. A sensação de criar algo do zero é inexplicável, além de desafiador. Para tanto, precisei rever conceitos de localstorage, e vários detalhes do CSS a fim de construir algo visualmente leve, simples e agradável.
 
-Caso queira saber um pouquinho mais do processo de elaboração e criação, fiz um breve benchmarking, elenquei possíveis referências e ideias de layout, escolhi as cores que possuíssem acessibilidade visual, e todo esse trajeto até chegar neste resultado final é possível visualizar no meu repositório do [Figma](https://www.figma.com/file/BOxY3gDmN9Y2FQOv4c7F41/projeto-cronos?node-id=0%3A1&t=CJfIdrRiCXa6LyZl-1).
+Caso queira saber um pouquinho mais do processo de elaboração e criação, fiz um breve benchmarking, elenquei possíveis referências e ideias de layout, escolhi as cores que possuíssem acessibilidade visual, e todo esse trajeto até chegar neste resultado final é possível visualizar no meu repositório do Figma. Para acesso basta entrar em contato comigo.
 
 Por fim, é válido ressaltar que tudo isso só foi possível graças ao planejamento realizado desde o primeiro dia, com o estabelecimento de metas desafiadoras mas alcançáveis, e muita dedicação, organização e amor por aprender mais a cada dia. 💖
 <br><br>
